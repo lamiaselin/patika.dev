@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+6 root. 7, 6'nın sağında 5 solunda bulunur. 1, 5'in solunda 9, 5'in sağında, 4, 7'nin solunda 8, 7'nin sağında bulunur. 0, 1'in solunda 2, 1'in sağında, 3 , 4'ün sağında 8, 7'nin solunda bulunur.  
